@@ -1,0 +1,8 @@
+streamlit
+crewai
+crewai-tools
+langchain-openai
+tavily-python
+feedparser
+requests
+python-dotenv
